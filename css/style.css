@@ -1,29 +1,29 @@
 #body{
-	background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapermemory.com%2Fdesktop-backgrounds%2F7680x4320&psig=AOvVaw1iSYRsjg8e2_ijLHZ-HHpp&ust=1580846327554000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPia8diVtucCFQAAAAAdAAAAABAD");
+background-color: rgb(119, 2, 2);
 }
 #mainContent {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-large;
 	font-weight: bold;
-	background-color: #E3F0FB;
+	background-color: rgb(104, 104, 104);
 	border-radius: 4px;
 	padding: 10px;
 	text-align: center;
 }
 .btn{
 	border-radius: 4px;
-	border: thin solid #F0E020;
+	border: thin solid rgb(0, 0, 0);
 	padding: 5px;
-	background-color: #F8F094;
+	background-color: rgb(253, 0, 0);
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: bold;
-	color: #663300;
+	color: #000000;
 	width: 75px;
 }
 .btn:hover {
-	border: thin solid #FFCC00;
-	background-color: #FCF9D6;
-	color: #996633;
+	border: thin solid rgb(255, 255, 255);
+	background-color: rgb(73, 73, 73);
+	color: #000000;
 	cursor: pointer;
 }
 .btn:active {
